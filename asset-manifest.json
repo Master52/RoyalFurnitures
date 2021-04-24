@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RoyalFurnitures/static/css/main.e4682d8f.chunk.css",
-    "main.js": "/RoyalFurnitures/static/js/main.c372aa95.chunk.js",
-    "main.js.map": "/RoyalFurnitures/static/js/main.c372aa95.chunk.js.map",
+    "main.js": "/RoyalFurnitures/static/js/main.b2eb060b.chunk.js",
+    "main.js.map": "/RoyalFurnitures/static/js/main.b2eb060b.chunk.js.map",
     "runtime-main.js": "/RoyalFurnitures/static/js/runtime-main.db675c8a.js",
     "runtime-main.js.map": "/RoyalFurnitures/static/js/runtime-main.db675c8a.js.map",
     "static/js/2.aadfbdc3.chunk.js": "/RoyalFurnitures/static/js/2.aadfbdc3.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.db675c8a.js",
     "static/js/2.aadfbdc3.chunk.js",
     "static/css/main.e4682d8f.chunk.css",
-    "static/js/main.c372aa95.chunk.js"
+    "static/js/main.b2eb060b.chunk.js"
   ]
 }
