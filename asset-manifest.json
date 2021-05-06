@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/RoyalFurnitures/static/css/main.e4682d8f.chunk.css",
-    "main.js": "/RoyalFurnitures/static/js/main.b2eb060b.chunk.js",
-    "main.js.map": "/RoyalFurnitures/static/js/main.b2eb060b.chunk.js.map",
+    "main.css": "/RoyalFurnitures/static/css/main.33e43757.chunk.css",
+    "main.js": "/RoyalFurnitures/static/js/main.27a7e6ed.chunk.js",
+    "main.js.map": "/RoyalFurnitures/static/js/main.27a7e6ed.chunk.js.map",
     "runtime-main.js": "/RoyalFurnitures/static/js/runtime-main.db675c8a.js",
     "runtime-main.js.map": "/RoyalFurnitures/static/js/runtime-main.db675c8a.js.map",
-    "static/js/2.aadfbdc3.chunk.js": "/RoyalFurnitures/static/js/2.aadfbdc3.chunk.js",
-    "static/js/2.aadfbdc3.chunk.js.map": "/RoyalFurnitures/static/js/2.aadfbdc3.chunk.js.map",
+    "static/js/2.c656efef.chunk.js": "/RoyalFurnitures/static/js/2.c656efef.chunk.js",
+    "static/js/2.c656efef.chunk.js.map": "/RoyalFurnitures/static/js/2.c656efef.chunk.js.map",
     "static/js/3.2f93c32a.chunk.js": "/RoyalFurnitures/static/js/3.2f93c32a.chunk.js",
     "static/js/3.2f93c32a.chunk.js.map": "/RoyalFurnitures/static/js/3.2f93c32a.chunk.js.map",
     "index.html": "/RoyalFurnitures/index.html",
-    "static/css/main.e4682d8f.chunk.css.map": "/RoyalFurnitures/static/css/main.e4682d8f.chunk.css.map",
-    "static/js/2.aadfbdc3.chunk.js.LICENSE.txt": "/RoyalFurnitures/static/js/2.aadfbdc3.chunk.js.LICENSE.txt",
+    "static/css/main.33e43757.chunk.css.map": "/RoyalFurnitures/static/css/main.33e43757.chunk.css.map",
+    "static/js/2.c656efef.chunk.js.LICENSE.txt": "/RoyalFurnitures/static/js/2.c656efef.chunk.js.LICENSE.txt",
     "static/media/Ellipsis-1s-200px.0b06ee73.svg": "/RoyalFurnitures/static/media/Ellipsis-1s-200px.0b06ee73.svg",
     "static/media/logo.0eb79510.png": "/RoyalFurnitures/static/media/logo.0eb79510.png"
   },
   "entrypoints": [
     "static/js/runtime-main.db675c8a.js",
-    "static/js/2.aadfbdc3.chunk.js",
-    "static/css/main.e4682d8f.chunk.css",
-    "static/js/main.b2eb060b.chunk.js"
+    "static/js/2.c656efef.chunk.js",
+    "static/css/main.33e43757.chunk.css",
+    "static/js/main.27a7e6ed.chunk.js"
   ]
 }
